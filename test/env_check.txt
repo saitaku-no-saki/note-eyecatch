@@ -1,0 +1,5 @@
+環境チェック結果（2026-11-13 定期実行）
+1. Projects：OK（先頭1行「# note事業 引き継ぎメモ（2026年11月13日時点・対象補助金の範囲を追記）」）
+2. GitHub：OK（add_repo ツールは見つからずNG。ただし /home/claude/note-eyecatch は clone 済みで、commit・push は成功）
+3. 内蔵ブラウザ：OK（タイトル「自分の記事｜note」、1 記事）
+4. PushNotification：OK（ツールあり・未送信）
